@@ -8,7 +8,8 @@ End to end app with full code base to summarize user uploaded document. [http://
 #### Semantic Search
 Complete code to perform semantic search using Vector Database and LLM. [http://kafles.com/2024/04/28/practical-llm4/](http://kafles.com/2024/04/28/practical-llm4/)
 
-#### RAG Based App: End to end application with full source code to demonstrate Retreival Augmented Generation (RAG) implementation. 
+#### RAG Based App
+End to end application with full source code to demonstrate Retreival Augmented Generation (RAG) implementation. 
 
 [http://kafles.com/2023/06/28/lambda-gpt/](http://kafles.com/2023/06/28/lambda-gpt/) 
 
