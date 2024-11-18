@@ -1,4 +1,9 @@
 Selected AI Projects :
+#### StoryBook Gen App
+StoryBook App takes a text story and creates a fun and engaging picture book in PDF or video format for small children in minutes. The concept used in this application can also be used to take any subject material and convert into a simple and fun teaching or self learning book or video for small children by teachers and parents.
+[Submitted for NVIDIA and LlamaIndex Developer Contest] (https://developer.nvidia.com/llamaindex-developer-contest)
+[https://github.com/sekharkafle/storycreator/blob/main/README.md](https://github.com/sekharkafle/storycreator/blob/main/README.md)
+
 #### Chat App
 End to end chat based application with full code base using Amazon Bedrock. [http://kafles.com/2024/04/13/practical-llm1/](http://kafles.com/2024/04/13/practical-llm1/)
 
