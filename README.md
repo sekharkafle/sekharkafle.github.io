@@ -6,6 +6,8 @@ StoryBook App takes a text story and creates a fun and engaging picture book in 
 
 [https://github.com/sekharkafle/storycreator/blob/main/README.md](https://github.com/sekharkafle/storycreator/blob/main/README.md)
 
+[https://www.youtube.com/watch?v=Y1wqgmheZMo](https://www.youtube.com/watch?v=Y1wqgmheZMo)
+
 #### Human-in-the-loop Reflective Agent
 Full source code for a Human-in-the-loop Collaborative app with Reflective Agent built using LangGraph deployable on StreamLit server.
 [http://kafles.com/2024/08/11/hil-reflective-agent/](http://kafles.com/2024/08/11/hil-reflective-agent/)
